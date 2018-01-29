@@ -35,15 +35,19 @@ h2 {
 
 #portfoliobiz {
     margin-bottom: 20px;
+    text-align: center;
 }
 
 #creations {
-    text-align: center;
-    font-size: 30px;
+
     padding: 15px;
-    padding-bottom: 100px;
+    padding-bottom: 15px;
+   
+    image-rendering: auto;
     
 }
+
+
 
 #bio{
     margin-bottom: 15px;
@@ -72,18 +76,46 @@ h2 {
     position: relative;
     margin-top: 100px;
     height: 100px;
-    margin-left: 50px;
-    margin-right: 50px;
+   bottom: 0;
     color: white;
     clear: both;
     background-color: grey;
     text-align: center;
     padding-top: 40px;
     border: 10px;
-   
+   width: 100%;
 
   }
   
   .social {
       padding-bottom: 60px;
+  }
+
+  .creation1 {
+    background-color: rgb(96, 168, 168);
+    color: white;
+  }
+
+  .creation2 {
+    background-color: rgb(96, 168, 168);
+    color: white;
+  }
+
+  .creation3 {
+    background-color: rgb(96, 168, 168);
+    color: white;
+  }
+
+  .creation4 {
+    background-color: rgb(96, 168, 168);
+    color: white;
+  }
+
+  .creation5 {
+    background-color: rgb(96, 168, 168);
+    color: white;
+  }
+
+  .image1 {
+      image-orientation: inherit; 
   }
