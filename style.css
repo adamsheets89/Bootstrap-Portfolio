@@ -91,6 +91,12 @@ h2 {
       padding-bottom: 60px;
   }
 
+#submit {
+    background-color: rgb(96, 168, 168);
+    color: white;
+    margin-bottom: 10px; 
+}
+
   .creation1 {
     background-color: rgb(96, 168, 168);
     color: white;
