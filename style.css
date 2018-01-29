@@ -1,0 +1,89 @@
+body {
+    background-color: rgb(212, 211, 211);
+}
+
+header {
+    background-color: white;
+}
+
+h1 {
+    color: rgb(96, 168, 168);
+}
+
+#left {
+  
+ margin-left: 50px;
+ margin-bottom: 10px;
+}
+
+#middle {
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+h2 {
+    font-size: 20px;
+    color: rgb(96, 168, 168);
+}
+
+#right {
+  margin-right: 50px;
+  text-align: center;
+  border-color: white;  
+}
+
+#portfoliobiz {
+    margin-bottom: 20px;
+}
+
+#creations {
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+    padding-bottom: 100px;
+    
+}
+
+#bio{
+    margin-bottom: 15px;
+}
+
+#contactme {
+    margin-bottom: 15px;
+}
+
+#mes {
+    padding: 100px;
+}
+
+.navbar-brand {
+    background-color: rgb(96, 168, 168);
+    color: white;
+   
+}
+
+.container-fluid {
+    padding-left: 64px;
+    padding-right: 105px;
+}
+
+.footer {
+    position: relative;
+    margin-top: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+    clear: both;
+    background-color: grey;
+    text-align: center;
+    padding-top: 40px;
+    border: 10px;
+   
+
+  }
+  
+  .social {
+      padding-bottom: 60px;
+  }
